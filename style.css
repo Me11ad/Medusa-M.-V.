@@ -1,0 +1,21 @@
+* {
+    font-family: 'Abhaya Libre', serif;
+}
+body {
+    display: flex;
+    background-color: #000000;
+}
+
+menu{
+    position: absolute;
+    display: flex;
+    ;
+}
+.news {
+    color: #A37846;
+
+}
+a{
+    color:#FFFFFF;
+    text-decoration: none;
+}
